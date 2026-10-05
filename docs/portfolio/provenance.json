@@ -1,0 +1,29 @@
+{
+  "kind": "source-guide",
+  "source_head": "9d6c4f7e8b2026452453f6fb755e207c117e53eb",
+  "source_tree": "531cbebb4bf7c9687f3a1b7a8ce8a3448e660973",
+  "source_repository": "https://github.com/MdSadman2004/Projects",
+  "nodes": [
+    {
+      "label": "HTML entry",
+      "path": "index.html",
+      "detail": "References /src/main.tsx, absent in this checkout"
+    },
+    {
+      "label": "Project manifest",
+      "path": "package.json",
+      "detail": "React and Vite scripts and dependencies"
+    },
+    {
+      "label": "Build configuration",
+      "path": "vite.config.ts",
+      "detail": "Vite configuration retained in the scaffold"
+    }
+  ],
+  "caption": "Source guide drawn from repository files; not a runtime screenshot or fresh benchmark.",
+  "generated_by": "render_guides.py",
+  "image_dimensions": [
+    1600,
+    960
+  ]
+}
